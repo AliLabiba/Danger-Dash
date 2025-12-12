@@ -1,5 +1,5 @@
 # Danger-Dash
-Final Project – Console Dodge Game
+⭐ Final Project – Console Dodge Game
 
 Welcome to my first-ever programming project!
 This game was created as my final project for Programming 1, and it represents my very first attempt at making a complete game from scratch using C# and the Console.
